@@ -3,7 +3,8 @@
 
 A simple script that removes the delay between zombie spawns.
 
-Download: https://github.com/damirka11/-Release-Zombies-ZombiesFastSpawn-Script/blob/main/ZombiesFastSpawn.gsc
+Download:
+https://github.com/damirka11/-Release-Zombies-ZombiesFastSpawn-Script/blob/main/ZombiesFastSpawn.gsc
 
 Installation:
 
