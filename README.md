@@ -1,5 +1,6 @@
-# -Release-Zombies-ZombiesFastSpawn-Script
+# -Release-Zombies-ZombiesFastSpawn-Scrip
 
+----------------------------------------------------------------------------------------------------
 
 **A simple script that removes the delay between zombies spawns.**
 
@@ -13,5 +14,7 @@ https://github.com/damirka11/-Release-Zombies-ZombiesFastSpawn-Script/blob/main/
 2)Put it in AppData\Local\Plutonium\storage\t6\scripts\zm folder.
 
 **Done.**
+
+-----------------------------------------------------------------------------------------------------
 
 ***:)***
