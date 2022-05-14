@@ -12,4 +12,6 @@ Installation:
 
 2)Put it in AppData\Local\Plutonium\storage\t6\scripts\zm folder.
 
+Done!
+
 :)
