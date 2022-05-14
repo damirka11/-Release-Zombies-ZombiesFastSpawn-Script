@@ -1,4 +1,4 @@
-# -Release-Zombies-ZombiesFastSpawn-Scrip
+# -Release-Zombies-ZombiesFastSpawn-Script
 
 ----------------------------------------------------------------------------------------------------
 
