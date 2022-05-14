@@ -8,9 +8,9 @@ https://github.com/damirka11/-Release-Zombies-ZombiesFastSpawn-Script/blob/main/
 
 **Installation:**
 
-*1)Download .gcs file.*
+1)Download .gcs file.
 
-*2)Put it in AppData\Local\Plutonium\storage\t6\scripts\zm folder.*
+2)Put it in AppData\Local\Plutonium\storage\t6\scripts\zm folder.
 
 **Done.**
 
